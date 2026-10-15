@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/resume/',
+  base: '/https://github.com/botashevaleyla2812/5class.git/',
 })
